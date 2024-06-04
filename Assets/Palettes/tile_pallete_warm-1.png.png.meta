@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: 39cdd094940c7154a82f897c76603076
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1270
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tile_pallete_warm-1.png_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3888
+        width: 1296
+        height: 1296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d6ea02890476648bad9701b26c2ad0
+      internalID: -1979167000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_pallete_warm-1.png_1
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 3888
+        width: 1296
+        height: 1296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee5c23f33f8ebe4e92da5c9aed550e5
+      internalID: -863021164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_pallete_warm-1.png_2
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 3888
+        width: 1296
+        height: 1296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2fde3d70725044f94f827682824e22
+      internalID: -822558479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_pallete_warm-1.png_3
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 3888
+        width: 1296
+        height: 1296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddff5b472af9b7c41b840d610ee9b40d
+      internalID: 1289958262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_pallete_warm-1.png_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2592
+        width: 1296
+        height: 1296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444106db9e3920846bf0644f50e8ca5d
+      internalID: 310546694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_pallete_warm-1.png_5
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 2592
+        width: 1296
+        height: 1296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f3973a289376a4cab1124bfa205e6e
+      internalID: -1919538610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_pallete_warm-1.png_6
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 2592
+        width: 1296
+        height: 1296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e97c8d57b9abd84091bfbae794e5989
+      internalID: -623159128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_pallete_warm-1.png_7
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 2592
+        width: 1296
+        height: 1296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ece21feaa9afd4e856f40caf19cdbb
+      internalID: -817575092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_pallete_warm-1.png_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1296
+        width: 1296
+        height: 1296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943c445ae6b69fe4cb841fc599a1df1f
+      internalID: 1449222750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_pallete_warm-1.png_9
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1296
+        width: 1296
+        height: 1296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff12de5b84b56d42ab4de37c065f0ba
+      internalID: 1671284068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_pallete_warm-1.png_10
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 1296
+        width: 1296
+        height: 1296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5bdc8cecd828249b7055a76affbccb
+      internalID: -267448642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_pallete_warm-1.png_11
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 1296
+        width: 1296
+        height: 1296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96038106162d471459d1f6d634d72507
+      internalID: -1583470274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_pallete_warm-1.png_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1296
+        height: 1296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd51af303132ee54585866a1af3d8688
+      internalID: 1261755716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_pallete_warm-1.png_13
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 0
+        width: 1296
+        height: 1296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f34f60c59f69141b23d1e37d20af01
+      internalID: -583301897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_pallete_warm-1.png_14
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 0
+        width: 1296
+        height: 1296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22f550c8dd04e540b5840513677a397
+      internalID: 638195639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_pallete_warm-1.png_15
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 0
+        width: 1296
+        height: 1296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63507cb1647e1e4abada2ecf6f2c53e
+      internalID: -80490381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tile_pallete_warm-1.png_0: -1979167000
+      tile_pallete_warm-1.png_1: -863021164
+      tile_pallete_warm-1.png_10: -267448642
+      tile_pallete_warm-1.png_11: -1583470274
+      tile_pallete_warm-1.png_12: 1261755716
+      tile_pallete_warm-1.png_13: -583301897
+      tile_pallete_warm-1.png_14: 638195639
+      tile_pallete_warm-1.png_15: -80490381
+      tile_pallete_warm-1.png_2: -822558479
+      tile_pallete_warm-1.png_3: 1289958262
+      tile_pallete_warm-1.png_4: 310546694
+      tile_pallete_warm-1.png_5: -1919538610
+      tile_pallete_warm-1.png_6: -623159128
+      tile_pallete_warm-1.png_7: -817575092
+      tile_pallete_warm-1.png_8: 1449222750
+      tile_pallete_warm-1.png_9: 1671284068
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
